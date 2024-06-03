@@ -1,4 +1,4 @@
-# Soal 2:
+
 # Deskripsi:
 # Sebuah perusahaan ingin mengelola data karyawannya. Buatlah kelas Karyawan dengan atribut
 # dan metode yang sesuai. Implementasikan fungsi hitung_gaji yang menghitung gaji karyawan
